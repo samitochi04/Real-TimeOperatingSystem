@@ -14,3 +14,6 @@ This RTOS will emulate the behavior of an embedded system's task schulder, enabl
         - make – To manage build processes.
         - gdb – For debugging.
         - qemu – If you want to emulate hardware later.
+2. Run and Build
+- make
+- ./rtos
