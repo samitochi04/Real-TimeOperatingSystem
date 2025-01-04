@@ -8,9 +8,9 @@ This RTOS will emulate the behavior of an embedded system's task schulder, enabl
 # How to get started?
 1. Set Up Development Environment
 - On Linux : 
-    *Sudo apt update*
-    *Sudo apt install build-essential gcc make gdb qemu*
-gcc – For compiling C code.
-make – To manage build processes.
-gdb – For debugging.
-qemu – If you want to emulate hardware later.
+    - *Sudo apt update*
+    - *Sudo apt install build-essential gcc make gdb qemu*.
+        - gcc – For compiling C code.
+        - make – To manage build processes.
+        - gdb – For debugging.
+        - qemu – If you want to emulate hardware later.
